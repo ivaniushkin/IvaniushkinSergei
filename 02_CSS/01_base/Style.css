@@ -1,0 +1,60 @@
+div
+    {
+        width: 140px;
+        height: 190px;
+        background-image: url('Sprit.png');
+        display: inline-block;
+    }
+.eight
+    {
+        
+        background-position: -430px -1197px;
+    }
+.queen
+    {
+        
+        background-position: 0px -1791px;
+    }
+.nine
+    {
+        
+        background-position: -285px -1393px;
+    }
+.ace
+    {       
+        background-position: -431px -2189px;
+    }
+.joker
+    {        
+        background-position: 1px -2388px;
+    }
+
+.eight1
+    {
+        background-position: -0px -1200px;
+        margin-right: -50px;
+    }
+.queen1
+    {        
+        background-position: 140px -1791px;
+        margin-right: -50px;
+        margin-bottom: -50px;
+    }
+.nine1
+    {   
+        background-position: -0px -1393px;
+        margin-right: -50px;
+        margin-bottom: -100px;
+    }
+.ace1
+    {        
+        background-position: -286px -2189px;
+        margin-right: -50px;
+        margin-bottom: -150px;
+    }
+.joker1
+    {       
+        background-position: 1px -2388px;
+        margin-right: -50px;
+        margin-bottom: -200px;
+    }
