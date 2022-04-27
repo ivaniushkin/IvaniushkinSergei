@@ -1,0 +1,21 @@
+body
+{
+    width: 800px;
+}
+.header 
+{
+    text-align: right;
+}
+.letter
+{
+    font-family:'Red Hat Mono', monospace;
+    font-style: italic;
+    text-indent: 40px;
+    padding: 0px;
+    color: black;
+}
+#sss
+{
+font-family: italic;
+text-decoration: underline;  
+}
