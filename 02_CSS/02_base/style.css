@@ -1,0 +1,30 @@
+Disc
+{
+    width: 350px;
+}
+
+ul
+{
+    list-style-type: upper-roman;
+
+}
+.small
+{
+    list-style-type: lower-roman;
+}
+
+.big
+{
+    list-style-type: upper-roman;
+    font-weight: bold;
+}
+
+.TV
+{
+    background-color: black;
+    width: 400px;
+    display: inline-block;
+    max-height: 4em;
+    overflow-y: auto;
+    color: green;
+}
