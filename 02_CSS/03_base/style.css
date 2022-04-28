@@ -1,0 +1,44 @@
+.fon
+{
+    background-color: rgb(40, 40, 206);
+}
+
+.Nav
+{
+    width: 15em;
+    background-color: lavender;
+    float: left;
+    margin-bottom: 2em;
+    
+}
+
+.St1
+{
+    background-color: grey;    
+    margin-bottom: 1em;
+}
+
+.St2
+{
+    background-color: rgb(163, 163, 163);
+    overflow: auto;    
+      
+}
+
+img
+{
+    width: 3%;
+    
+    
+      
+}
+.clear
+{
+    clear: both;
+}
+footer
+{
+    background-color: green;
+    
+}
+
